@@ -15,3 +15,5 @@ add_executable(AdvancedCProgramming
         Chapter02/Exercise02.c
         Chapter02/Exercise03.c)
 add_executable(Chap02Exercise03 Chapter02/Exercise03.c)
+add_executable(H2_1 Chapter02/H2_1.c)
+add_executable(H2_2 Chapter02/H2_2.c)
