@@ -1,3 +1,14 @@
 # ninja log v5
-0	316	1703206252375474296	CMakeFiles/AdvancedCProgramming.dir/Chapter01/Hello.c.o	5308dc4b8f8fa118
-317	478	1703206252540080239	AdvancedCProgramming	c2a43bb1ebe476d5
+0	219	1703555988603621628	CMakeFiles/AdvancedCProgramming.dir/Chapter02/InputFunction.c.o	15f31c1014b9208e
+1	232	1703552996265936465	CMakeFiles/AdvancedCProgramming.dir/Chapter02/Declaration.c.o	bc28874aeac41836
+0	120	1703556075467274173	build.ninja	277e8cf55e1ecaed
+0	227	1703550947532428643	CMakeFiles/AdvancedCProgramming.dir/Chapter01/Hello.c.o	5308dc4b8f8fa118
+0	230	1703551913321466889	CMakeFiles/AdvancedCProgramming.dir/Chapter02/IntSize.c.o	519293f230127557
+314	465	1703556007015536459	AdvancedCProgramming	6d981de79d0d7fb6
+0	232	1703555296776177584	CMakeFiles/AdvancedCProgramming.dir/Chapter02/SizeOfChar.c.o	9dbc4449c7481387
+1	379	1703550907501694341	CMakeFiles/AdvancedCProgramming.dir/Chapter02/Hello.c.o	b857508cf1606269
+0	233	1703552462533433981	CMakeFiles/AdvancedCProgramming.dir/Chapter02/FloatingPoint.c.o	31762fa9ac9e275b
+1	314	1703556006862153672	CMakeFiles/AdvancedCProgramming.dir/Chapter02/Exercise02.c.o	626f0211af73e098
+0	229	1703556185598561806	CMakeFiles/AdvancedCProgramming.dir/Chapter02/Exercise02.c.o	626f0211af73e098
+1	302	1703556185676958362	CMakeFiles/AdvancedCProgramming.dir/Chapter02/Exercise03.c.o	dbd4ee17e31d420f
+302	451	1703556185825271850	AdvancedCProgramming	b4e63615446faab0
