@@ -2,5 +2,13 @@
 /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/Chap02Exercise03.dir
 /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/H2_1.dir
 /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/H2_2.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/Chap03Expression.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/Chap03Exercise.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/Chap03Exercise02.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/Chap03Exercise03.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/PrintAndScan.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/H3_1.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/H3_2.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/H3_3.dir
 /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
