@@ -217,6 +217,262 @@ build H2_2: C_EXECUTABLE_LINKER__H2_2_Debug CMakeFiles/H2_2.dir/Chapter02/H2_2.c
   TARGET_FILE = H2_2
   TARGET_PDB = H2_2.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap03Expression
+
+
+#############################################
+# Order-only phony target for Chap03Expression
+
+build cmake_object_order_depends_target_Chap03Expression: phony || CMakeFiles/Chap03Expression.dir
+
+build CMakeFiles/Chap03Expression.dir/Chapter03/Expression.c.o: C_COMPILER__Chap03Expression_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter03/Expression.c || cmake_object_order_depends_target_Chap03Expression
+  DEP_FILE = CMakeFiles/Chap03Expression.dir/Chapter03/Expression.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap03Expression.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap03Expression.dir/Chapter03
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap03Expression
+
+
+#############################################
+# Link the executable Chap03Expression
+
+build Chap03Expression: C_EXECUTABLE_LINKER__Chap03Expression_Debug CMakeFiles/Chap03Expression.dir/Chapter03/Expression.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap03Expression.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap03Expression
+  TARGET_PDB = Chap03Expression.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap03Exercise
+
+
+#############################################
+# Order-only phony target for Chap03Exercise
+
+build cmake_object_order_depends_target_Chap03Exercise: phony || CMakeFiles/Chap03Exercise.dir
+
+build CMakeFiles/Chap03Exercise.dir/Chapter03/Exercise01.c.o: C_COMPILER__Chap03Exercise_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter03/Exercise01.c || cmake_object_order_depends_target_Chap03Exercise
+  DEP_FILE = CMakeFiles/Chap03Exercise.dir/Chapter03/Exercise01.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap03Exercise.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap03Exercise.dir/Chapter03
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap03Exercise
+
+
+#############################################
+# Link the executable Chap03Exercise
+
+build Chap03Exercise: C_EXECUTABLE_LINKER__Chap03Exercise_Debug CMakeFiles/Chap03Exercise.dir/Chapter03/Exercise01.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap03Exercise.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap03Exercise
+  TARGET_PDB = Chap03Exercise.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap03Exercise02
+
+
+#############################################
+# Order-only phony target for Chap03Exercise02
+
+build cmake_object_order_depends_target_Chap03Exercise02: phony || CMakeFiles/Chap03Exercise02.dir
+
+build CMakeFiles/Chap03Exercise02.dir/Chapter03/Exercise02.c.o: C_COMPILER__Chap03Exercise02_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter03/Exercise02.c || cmake_object_order_depends_target_Chap03Exercise02
+  DEP_FILE = CMakeFiles/Chap03Exercise02.dir/Chapter03/Exercise02.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap03Exercise02.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap03Exercise02.dir/Chapter03
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap03Exercise02
+
+
+#############################################
+# Link the executable Chap03Exercise02
+
+build Chap03Exercise02: C_EXECUTABLE_LINKER__Chap03Exercise02_Debug CMakeFiles/Chap03Exercise02.dir/Chapter03/Exercise02.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap03Exercise02.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap03Exercise02
+  TARGET_PDB = Chap03Exercise02.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap03Exercise03
+
+
+#############################################
+# Order-only phony target for Chap03Exercise03
+
+build cmake_object_order_depends_target_Chap03Exercise03: phony || CMakeFiles/Chap03Exercise03.dir
+
+build CMakeFiles/Chap03Exercise03.dir/Chapter03/Exercise03.c.o: C_COMPILER__Chap03Exercise03_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter03/Exercise03.c || cmake_object_order_depends_target_Chap03Exercise03
+  DEP_FILE = CMakeFiles/Chap03Exercise03.dir/Chapter03/Exercise03.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap03Exercise03.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap03Exercise03.dir/Chapter03
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap03Exercise03
+
+
+#############################################
+# Link the executable Chap03Exercise03
+
+build Chap03Exercise03: C_EXECUTABLE_LINKER__Chap03Exercise03_Debug CMakeFiles/Chap03Exercise03.dir/Chapter03/Exercise03.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap03Exercise03.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap03Exercise03
+  TARGET_PDB = Chap03Exercise03.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target PrintAndScan
+
+
+#############################################
+# Order-only phony target for PrintAndScan
+
+build cmake_object_order_depends_target_PrintAndScan: phony || CMakeFiles/PrintAndScan.dir
+
+build CMakeFiles/PrintAndScan.dir/Chapter03/PrintAndScan.c.o: C_COMPILER__PrintAndScan_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter03/PrintAndScan.c || cmake_object_order_depends_target_PrintAndScan
+  DEP_FILE = CMakeFiles/PrintAndScan.dir/Chapter03/PrintAndScan.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/PrintAndScan.dir
+  OBJECT_FILE_DIR = CMakeFiles/PrintAndScan.dir/Chapter03
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target PrintAndScan
+
+
+#############################################
+# Link the executable PrintAndScan
+
+build PrintAndScan: C_EXECUTABLE_LINKER__PrintAndScan_Debug CMakeFiles/PrintAndScan.dir/Chapter03/PrintAndScan.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/PrintAndScan.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = PrintAndScan
+  TARGET_PDB = PrintAndScan.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target H3_1
+
+
+#############################################
+# Order-only phony target for H3_1
+
+build cmake_object_order_depends_target_H3_1: phony || CMakeFiles/H3_1.dir
+
+build CMakeFiles/H3_1.dir/Chapter03/H3_1.c.o: C_COMPILER__H3_1_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter03/H3_1.c || cmake_object_order_depends_target_H3_1
+  DEP_FILE = CMakeFiles/H3_1.dir/Chapter03/H3_1.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/H3_1.dir
+  OBJECT_FILE_DIR = CMakeFiles/H3_1.dir/Chapter03
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target H3_1
+
+
+#############################################
+# Link the executable H3_1
+
+build H3_1: C_EXECUTABLE_LINKER__H3_1_Debug CMakeFiles/H3_1.dir/Chapter03/H3_1.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/H3_1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = H3_1
+  TARGET_PDB = H3_1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target H3_2
+
+
+#############################################
+# Order-only phony target for H3_2
+
+build cmake_object_order_depends_target_H3_2: phony || CMakeFiles/H3_2.dir
+
+build CMakeFiles/H3_2.dir/Chapter03/H3_2.c.o: C_COMPILER__H3_2_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter03/H3_2.c || cmake_object_order_depends_target_H3_2
+  DEP_FILE = CMakeFiles/H3_2.dir/Chapter03/H3_2.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/H3_2.dir
+  OBJECT_FILE_DIR = CMakeFiles/H3_2.dir/Chapter03
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target H3_2
+
+
+#############################################
+# Link the executable H3_2
+
+build H3_2: C_EXECUTABLE_LINKER__H3_2_Debug CMakeFiles/H3_2.dir/Chapter03/H3_2.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/H3_2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = H3_2
+  TARGET_PDB = H3_2.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target H3_3
+
+
+#############################################
+# Order-only phony target for H3_3
+
+build cmake_object_order_depends_target_H3_3: phony || CMakeFiles/H3_3.dir
+
+build CMakeFiles/H3_3.dir/Chapter03/H3_3.c.o: C_COMPILER__H3_3_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter03/H3_3.c || cmake_object_order_depends_target_H3_3
+  DEP_FILE = CMakeFiles/H3_3.dir/Chapter03/H3_3.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/H3_3.dir
+  OBJECT_FILE_DIR = CMakeFiles/H3_3.dir/Chapter03
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target H3_3
+
+
+#############################################
+# Link the executable H3_3
+
+build H3_3: C_EXECUTABLE_LINKER__H3_3_Debug CMakeFiles/H3_3.dir/Chapter03/H3_3.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/H3_3.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = H3_3
+  TARGET_PDB = H3_3.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -251,7 +507,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug
 
-build all: phony AdvancedCProgramming Chap02Exercise03 H2_1 H2_2
+build all: phony AdvancedCProgramming Chap02Exercise03 H2_1 H2_2 Chap03Expression Chap03Exercise Chap03Exercise02 Chap03Exercise03 PrintAndScan H3_1 H3_2 H3_3
 
 # =============================================================================
 # Built-in targets
