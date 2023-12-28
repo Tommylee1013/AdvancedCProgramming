@@ -672,6 +672,358 @@ build P4_4: C_EXECUTABLE_LINKER__P4_4_Debug CMakeFiles/P4_4.dir/Chapter04/P4_4.c
   TARGET_FILE = P4_4
   TARGET_PDB = P4_4.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap04Math
+
+
+#############################################
+# Order-only phony target for Chap04Math
+
+build cmake_object_order_depends_target_Chap04Math: phony || CMakeFiles/Chap04Math.dir
+
+build CMakeFiles/Chap04Math.dir/Chapter04/MathLib.c.o: C_COMPILER__Chap04Math_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter04/MathLib.c || cmake_object_order_depends_target_Chap04Math
+  DEP_FILE = CMakeFiles/Chap04Math.dir/Chapter04/MathLib.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap04Math.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap04Math.dir/Chapter04
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap04Math
+
+
+#############################################
+# Link the executable Chap04Math
+
+build Chap04Math: C_EXECUTABLE_LINKER__Chap04Math_Debug CMakeFiles/Chap04Math.dir/Chapter04/MathLib.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap04Math.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap04Math
+  TARGET_PDB = Chap04Math.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap04StdLib
+
+
+#############################################
+# Order-only phony target for Chap04StdLib
+
+build cmake_object_order_depends_target_Chap04StdLib: phony || CMakeFiles/Chap04StdLib.dir
+
+build CMakeFiles/Chap04StdLib.dir/Chapter04/StdLibExample.c.o: C_COMPILER__Chap04StdLib_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter04/StdLibExample.c || cmake_object_order_depends_target_Chap04StdLib
+  DEP_FILE = CMakeFiles/Chap04StdLib.dir/Chapter04/StdLibExample.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap04StdLib.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap04StdLib.dir/Chapter04
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap04StdLib
+
+
+#############################################
+# Link the executable Chap04StdLib
+
+build Chap04StdLib: C_EXECUTABLE_LINKER__Chap04StdLib_Debug CMakeFiles/Chap04StdLib.dir/Chapter04/StdLibExample.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap04StdLib.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap04StdLib
+  TARGET_PDB = Chap04StdLib.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap04Program
+
+
+#############################################
+# Order-only phony target for Chap04Program
+
+build cmake_object_order_depends_target_Chap04Program: phony || CMakeFiles/Chap04Program.dir
+
+build CMakeFiles/Chap04Program.dir/Chapter04/P4_9RandomNumbers.c.o: C_COMPILER__Chap04Program_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter04/P4_9RandomNumbers.c || cmake_object_order_depends_target_Chap04Program
+  DEP_FILE = CMakeFiles/Chap04Program.dir/Chapter04/P4_9RandomNumbers.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap04Program.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap04Program.dir/Chapter04
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap04Program
+
+
+#############################################
+# Link the executable Chap04Program
+
+build Chap04Program: C_EXECUTABLE_LINKER__Chap04Program_Debug CMakeFiles/Chap04Program.dir/Chapter04/P4_9RandomNumbers.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap04Program.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap04Program
+  TARGET_PDB = Chap04Program.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap04PseudoRandom
+
+
+#############################################
+# Order-only phony target for Chap04PseudoRandom
+
+build cmake_object_order_depends_target_Chap04PseudoRandom: phony || CMakeFiles/Chap04PseudoRandom.dir
+
+build CMakeFiles/Chap04PseudoRandom.dir/Chapter04/P4_10PseudoRandomNumbers.c.o: C_COMPILER__Chap04PseudoRandom_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter04/P4_10PseudoRandomNumbers.c || cmake_object_order_depends_target_Chap04PseudoRandom
+  DEP_FILE = CMakeFiles/Chap04PseudoRandom.dir/Chapter04/P4_10PseudoRandomNumbers.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap04PseudoRandom.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap04PseudoRandom.dir/Chapter04
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap04PseudoRandom
+
+
+#############################################
+# Link the executable Chap04PseudoRandom
+
+build Chap04PseudoRandom: C_EXECUTABLE_LINKER__Chap04PseudoRandom_Debug CMakeFiles/Chap04PseudoRandom.dir/Chapter04/P4_10PseudoRandomNumbers.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap04PseudoRandom.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap04PseudoRandom
+  TARGET_PDB = Chap04PseudoRandom.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap04RandomNumberRange
+
+
+#############################################
+# Order-only phony target for Chap04RandomNumberRange
+
+build cmake_object_order_depends_target_Chap04RandomNumberRange: phony || CMakeFiles/Chap04RandomNumberRange.dir
+
+build CMakeFiles/Chap04RandomNumberRange.dir/Chapter04/P4_11RandomNumberRange.c.o: C_COMPILER__Chap04RandomNumberRange_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter04/P4_11RandomNumberRange.c || cmake_object_order_depends_target_Chap04RandomNumberRange
+  DEP_FILE = CMakeFiles/Chap04RandomNumberRange.dir/Chapter04/P4_11RandomNumberRange.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap04RandomNumberRange.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap04RandomNumberRange.dir/Chapter04
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap04RandomNumberRange
+
+
+#############################################
+# Link the executable Chap04RandomNumberRange
+
+build Chap04RandomNumberRange: C_EXECUTABLE_LINKER__Chap04RandomNumberRange_Debug CMakeFiles/Chap04RandomNumberRange.dir/Chapter04/P4_11RandomNumberRange.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap04RandomNumberRange.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap04RandomNumberRange
+  TARGET_PDB = Chap04RandomNumberRange.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap04GenerateRandomReal
+
+
+#############################################
+# Order-only phony target for Chap04GenerateRandomReal
+
+build cmake_object_order_depends_target_Chap04GenerateRandomReal: phony || CMakeFiles/Chap04GenerateRandomReal.dir
+
+build CMakeFiles/Chap04GenerateRandomReal.dir/Chapter04/P4_12GenerateRandomReal.c.o: C_COMPILER__Chap04GenerateRandomReal_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter04/P4_12GenerateRandomReal.c || cmake_object_order_depends_target_Chap04GenerateRandomReal
+  DEP_FILE = CMakeFiles/Chap04GenerateRandomReal.dir/Chapter04/P4_12GenerateRandomReal.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap04GenerateRandomReal.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap04GenerateRandomReal.dir/Chapter04
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap04GenerateRandomReal
+
+
+#############################################
+# Link the executable Chap04GenerateRandomReal
+
+build Chap04GenerateRandomReal: C_EXECUTABLE_LINKER__Chap04GenerateRandomReal_Debug CMakeFiles/Chap04GenerateRandomReal.dir/Chapter04/P4_12GenerateRandomReal.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap04GenerateRandomReal.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap04GenerateRandomReal
+  TARGET_PDB = Chap04GenerateRandomReal.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap04Calculator
+
+
+#############################################
+# Order-only phony target for Chap04Calculator
+
+build cmake_object_order_depends_target_Chap04Calculator: phony || CMakeFiles/Chap04Calculator.dir
+
+build CMakeFiles/Chap04Calculator.dir/Chapter04/P4_3Calculator.c.o: C_COMPILER__Chap04Calculator_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter04/P4_3Calculator.c || cmake_object_order_depends_target_Chap04Calculator
+  DEP_FILE = CMakeFiles/Chap04Calculator.dir/Chapter04/P4_3Calculator.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap04Calculator.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap04Calculator.dir/Chapter04
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap04Calculator
+
+
+#############################################
+# Link the executable Chap04Calculator
+
+build Chap04Calculator: C_EXECUTABLE_LINKER__Chap04Calculator_Debug CMakeFiles/Chap04Calculator.dir/Chapter04/P4_3Calculator.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap04Calculator.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap04Calculator
+  TARGET_PDB = Chap04Calculator.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap04RecursiveFunc
+
+
+#############################################
+# Order-only phony target for Chap04RecursiveFunc
+
+build cmake_object_order_depends_target_Chap04RecursiveFunc: phony || CMakeFiles/Chap04RecursiveFunc.dir
+
+build CMakeFiles/Chap04RecursiveFunc.dir/Chapter04/RecursiveFunction.c.o: C_COMPILER__Chap04RecursiveFunc_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter04/RecursiveFunction.c || cmake_object_order_depends_target_Chap04RecursiveFunc
+  DEP_FILE = CMakeFiles/Chap04RecursiveFunc.dir/Chapter04/RecursiveFunction.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap04RecursiveFunc.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap04RecursiveFunc.dir/Chapter04
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap04RecursiveFunc
+
+
+#############################################
+# Link the executable Chap04RecursiveFunc
+
+build Chap04RecursiveFunc: C_EXECUTABLE_LINKER__Chap04RecursiveFunc_Debug CMakeFiles/Chap04RecursiveFunc.dir/Chapter04/RecursiveFunction.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap04RecursiveFunc.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap04RecursiveFunc
+  TARGET_PDB = Chap04RecursiveFunc.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target H4_1
+
+
+#############################################
+# Order-only phony target for H4_1
+
+build cmake_object_order_depends_target_H4_1: phony || CMakeFiles/H4_1.dir
+
+build CMakeFiles/H4_1.dir/Chapter04/H4_1.c.o: C_COMPILER__H4_1_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter04/H4_1.c || cmake_object_order_depends_target_H4_1
+  DEP_FILE = CMakeFiles/H4_1.dir/Chapter04/H4_1.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/H4_1.dir
+  OBJECT_FILE_DIR = CMakeFiles/H4_1.dir/Chapter04
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target H4_1
+
+
+#############################################
+# Link the executable H4_1
+
+build H4_1: C_EXECUTABLE_LINKER__H4_1_Debug CMakeFiles/H4_1.dir/Chapter04/H4_1.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/H4_1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = H4_1
+  TARGET_PDB = H4_1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target H4_2
+
+
+#############################################
+# Order-only phony target for H4_2
+
+build cmake_object_order_depends_target_H4_2: phony || CMakeFiles/H4_2.dir
+
+build CMakeFiles/H4_2.dir/Chapter04/H4_2.c.o: C_COMPILER__H4_2_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter04/H4_2.c || cmake_object_order_depends_target_H4_2
+  DEP_FILE = CMakeFiles/H4_2.dir/Chapter04/H4_2.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/H4_2.dir
+  OBJECT_FILE_DIR = CMakeFiles/H4_2.dir/Chapter04
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target H4_2
+
+
+#############################################
+# Link the executable H4_2
+
+build H4_2: C_EXECUTABLE_LINKER__H4_2_Debug CMakeFiles/H4_2.dir/Chapter04/H4_2.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/H4_2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = H4_2
+  TARGET_PDB = H4_2.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target H4_3
+
+
+#############################################
+# Order-only phony target for H4_3
+
+build cmake_object_order_depends_target_H4_3: phony || CMakeFiles/H4_3.dir
+
+build CMakeFiles/H4_3.dir/Chapter04/H4_3.c.o: C_COMPILER__H4_3_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter04/H4_3.c || cmake_object_order_depends_target_H4_3
+  DEP_FILE = CMakeFiles/H4_3.dir/Chapter04/H4_3.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/H4_3.dir
+  OBJECT_FILE_DIR = CMakeFiles/H4_3.dir/Chapter04
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target H4_3
+
+
+#############################################
+# Link the executable H4_3
+
+build H4_3: C_EXECUTABLE_LINKER__H4_3_Debug CMakeFiles/H4_3.dir/Chapter04/H4_3.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/H4_3.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = H4_3
+  TARGET_PDB = H4_3.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -706,7 +1058,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug
 
-build all: phony AdvancedCProgramming Chap02Exercise03 H2_1 H2_2 Chap03Expression Chap03Exercise Chap03Exercise02 Chap03Exercise03 PrintAndScan H3_1 H3_2 H3_3 Chap04Swap P4_1 Chap04StackFrame Chap04Scope Chap04StorageClass P4_4
+build all: phony AdvancedCProgramming Chap02Exercise03 H2_1 H2_2 Chap03Expression Chap03Exercise Chap03Exercise02 Chap03Exercise03 PrintAndScan H3_1 H3_2 H3_3 Chap04Swap P4_1 Chap04StackFrame Chap04Scope Chap04StorageClass P4_4 Chap04Math Chap04StdLib Chap04Program Chap04PseudoRandom Chap04RandomNumberRange Chap04GenerateRandomReal Chap04Calculator Chap04RecursiveFunc H4_1 H4_2 H4_3
 
 # =============================================================================
 # Built-in targets
