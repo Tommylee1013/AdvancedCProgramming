@@ -473,6 +473,205 @@ build H3_3: C_EXECUTABLE_LINKER__H3_3_Debug CMakeFiles/H3_3.dir/Chapter03/H3_3.c
   TARGET_FILE = H3_3
   TARGET_PDB = H3_3.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap04Swap
+
+
+#############################################
+# Order-only phony target for Chap04Swap
+
+build cmake_object_order_depends_target_Chap04Swap: phony || CMakeFiles/Chap04Swap.dir
+
+build CMakeFiles/Chap04Swap.dir/Chapter04/SwapBiDirection.c.o: C_COMPILER__Chap04Swap_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter04/SwapBiDirection.c || cmake_object_order_depends_target_Chap04Swap
+  DEP_FILE = CMakeFiles/Chap04Swap.dir/Chapter04/SwapBiDirection.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap04Swap.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap04Swap.dir/Chapter04
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap04Swap
+
+
+#############################################
+# Link the executable Chap04Swap
+
+build Chap04Swap: C_EXECUTABLE_LINKER__Chap04Swap_Debug CMakeFiles/Chap04Swap.dir/Chapter04/SwapBiDirection.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap04Swap.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap04Swap
+  TARGET_PDB = Chap04Swap.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P4_1
+
+
+#############################################
+# Order-only phony target for P4_1
+
+build cmake_object_order_depends_target_P4_1: phony || CMakeFiles/P4_1.dir
+
+build CMakeFiles/P4_1.dir/Chapter04/P4_1.c.o: C_COMPILER__P4_1_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter04/P4_1.c || cmake_object_order_depends_target_P4_1
+  DEP_FILE = CMakeFiles/P4_1.dir/Chapter04/P4_1.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/P4_1.dir
+  OBJECT_FILE_DIR = CMakeFiles/P4_1.dir/Chapter04
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P4_1
+
+
+#############################################
+# Link the executable P4_1
+
+build P4_1: C_EXECUTABLE_LINKER__P4_1_Debug CMakeFiles/P4_1.dir/Chapter04/P4_1.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P4_1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P4_1
+  TARGET_PDB = P4_1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap04StackFrame
+
+
+#############################################
+# Order-only phony target for Chap04StackFrame
+
+build cmake_object_order_depends_target_Chap04StackFrame: phony || CMakeFiles/Chap04StackFrame.dir
+
+build CMakeFiles/Chap04StackFrame.dir/Chapter04/StackFrame.c.o: C_COMPILER__Chap04StackFrame_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter04/StackFrame.c || cmake_object_order_depends_target_Chap04StackFrame
+  DEP_FILE = CMakeFiles/Chap04StackFrame.dir/Chapter04/StackFrame.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap04StackFrame.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap04StackFrame.dir/Chapter04
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap04StackFrame
+
+
+#############################################
+# Link the executable Chap04StackFrame
+
+build Chap04StackFrame: C_EXECUTABLE_LINKER__Chap04StackFrame_Debug CMakeFiles/Chap04StackFrame.dir/Chapter04/StackFrame.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap04StackFrame.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap04StackFrame
+  TARGET_PDB = Chap04StackFrame.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap04Scope
+
+
+#############################################
+# Order-only phony target for Chap04Scope
+
+build cmake_object_order_depends_target_Chap04Scope: phony || CMakeFiles/Chap04Scope.dir
+
+build CMakeFiles/Chap04Scope.dir/Chapter04/Scope.c.o: C_COMPILER__Chap04Scope_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter04/Scope.c || cmake_object_order_depends_target_Chap04Scope
+  DEP_FILE = CMakeFiles/Chap04Scope.dir/Chapter04/Scope.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap04Scope.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap04Scope.dir/Chapter04
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap04Scope
+
+
+#############################################
+# Link the executable Chap04Scope
+
+build Chap04Scope: C_EXECUTABLE_LINKER__Chap04Scope_Debug CMakeFiles/Chap04Scope.dir/Chapter04/Scope.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap04Scope.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap04Scope
+  TARGET_PDB = Chap04Scope.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap04StorageClass
+
+
+#############################################
+# Order-only phony target for Chap04StorageClass
+
+build cmake_object_order_depends_target_Chap04StorageClass: phony || CMakeFiles/Chap04StorageClass.dir
+
+build CMakeFiles/Chap04StorageClass.dir/Chapter04/StorageClass.c.o: C_COMPILER__Chap04StorageClass_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter04/StorageClass.c || cmake_object_order_depends_target_Chap04StorageClass
+  DEP_FILE = CMakeFiles/Chap04StorageClass.dir/Chapter04/StorageClass.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap04StorageClass.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap04StorageClass.dir/Chapter04
+
+build CMakeFiles/Chap04StorageClass.dir/Chapter04/out.c.o: C_COMPILER__Chap04StorageClass_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter04/out.c || cmake_object_order_depends_target_Chap04StorageClass
+  DEP_FILE = CMakeFiles/Chap04StorageClass.dir/Chapter04/out.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap04StorageClass.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap04StorageClass.dir/Chapter04
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap04StorageClass
+
+
+#############################################
+# Link the executable Chap04StorageClass
+
+build Chap04StorageClass: C_EXECUTABLE_LINKER__Chap04StorageClass_Debug CMakeFiles/Chap04StorageClass.dir/Chapter04/StorageClass.c.o CMakeFiles/Chap04StorageClass.dir/Chapter04/out.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap04StorageClass.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap04StorageClass
+  TARGET_PDB = Chap04StorageClass.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P4_4
+
+
+#############################################
+# Order-only phony target for P4_4
+
+build cmake_object_order_depends_target_P4_4: phony || CMakeFiles/P4_4.dir
+
+build CMakeFiles/P4_4.dir/Chapter04/P4_4.c.o: C_COMPILER__P4_4_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter04/P4_4.c || cmake_object_order_depends_target_P4_4
+  DEP_FILE = CMakeFiles/P4_4.dir/Chapter04/P4_4.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/P4_4.dir
+  OBJECT_FILE_DIR = CMakeFiles/P4_4.dir/Chapter04
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P4_4
+
+
+#############################################
+# Link the executable P4_4
+
+build P4_4: C_EXECUTABLE_LINKER__P4_4_Debug CMakeFiles/P4_4.dir/Chapter04/P4_4.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P4_4.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P4_4
+  TARGET_PDB = P4_4.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -507,7 +706,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug
 
-build all: phony AdvancedCProgramming Chap02Exercise03 H2_1 H2_2 Chap03Expression Chap03Exercise Chap03Exercise02 Chap03Exercise03 PrintAndScan H3_1 H3_2 H3_3
+build all: phony AdvancedCProgramming Chap02Exercise03 H2_1 H2_2 Chap03Expression Chap03Exercise Chap03Exercise02 Chap03Exercise03 PrintAndScan H3_1 H3_2 H3_3 Chap04Swap P4_1 Chap04StackFrame Chap04Scope Chap04StorageClass P4_4
 
 # =============================================================================
 # Built-in targets
