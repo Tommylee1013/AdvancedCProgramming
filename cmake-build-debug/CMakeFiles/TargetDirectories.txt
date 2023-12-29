@@ -27,5 +27,15 @@
 /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/H4_1.dir
 /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/H4_2.dir
 /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/H4_3.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/P5_1.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/P5_2.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/P5_3.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/P5_4.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/P5_5.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/SqaureRoot.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/P5_7.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/H5_1.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/H5_2.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/H5_3.dir
 /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
