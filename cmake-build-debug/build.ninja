@@ -1024,6 +1024,262 @@ build H4_3: C_EXECUTABLE_LINKER__H4_3_Debug CMakeFiles/H4_3.dir/Chapter04/H4_3.c
   TARGET_FILE = H4_3
   TARGET_PDB = H4_3.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target P5_1
+
+
+#############################################
+# Order-only phony target for P5_1
+
+build cmake_object_order_depends_target_P5_1: phony || CMakeFiles/P5_1.dir
+
+build CMakeFiles/P5_1.dir/Chapter05/P5_1.c.o: C_COMPILER__P5_1_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter05/P5_1.c || cmake_object_order_depends_target_P5_1
+  DEP_FILE = CMakeFiles/P5_1.dir/Chapter05/P5_1.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/P5_1.dir
+  OBJECT_FILE_DIR = CMakeFiles/P5_1.dir/Chapter05
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P5_1
+
+
+#############################################
+# Link the executable P5_1
+
+build P5_1: C_EXECUTABLE_LINKER__P5_1_Debug CMakeFiles/P5_1.dir/Chapter05/P5_1.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P5_1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P5_1
+  TARGET_PDB = P5_1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P5_2
+
+
+#############################################
+# Order-only phony target for P5_2
+
+build cmake_object_order_depends_target_P5_2: phony || CMakeFiles/P5_2.dir
+
+build CMakeFiles/P5_2.dir/Chapter05/P5_2.c.o: C_COMPILER__P5_2_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter05/P5_2.c || cmake_object_order_depends_target_P5_2
+  DEP_FILE = CMakeFiles/P5_2.dir/Chapter05/P5_2.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/P5_2.dir
+  OBJECT_FILE_DIR = CMakeFiles/P5_2.dir/Chapter05
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P5_2
+
+
+#############################################
+# Link the executable P5_2
+
+build P5_2: C_EXECUTABLE_LINKER__P5_2_Debug CMakeFiles/P5_2.dir/Chapter05/P5_2.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P5_2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P5_2
+  TARGET_PDB = P5_2.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P5_3
+
+
+#############################################
+# Order-only phony target for P5_3
+
+build cmake_object_order_depends_target_P5_3: phony || CMakeFiles/P5_3.dir
+
+build CMakeFiles/P5_3.dir/Chapter05/P5_3.c.o: C_COMPILER__P5_3_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter05/P5_3.c || cmake_object_order_depends_target_P5_3
+  DEP_FILE = CMakeFiles/P5_3.dir/Chapter05/P5_3.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/P5_3.dir
+  OBJECT_FILE_DIR = CMakeFiles/P5_3.dir/Chapter05
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P5_3
+
+
+#############################################
+# Link the executable P5_3
+
+build P5_3: C_EXECUTABLE_LINKER__P5_3_Debug CMakeFiles/P5_3.dir/Chapter05/P5_3.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P5_3.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P5_3
+  TARGET_PDB = P5_3.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P5_4
+
+
+#############################################
+# Order-only phony target for P5_4
+
+build cmake_object_order_depends_target_P5_4: phony || CMakeFiles/P5_4.dir
+
+build CMakeFiles/P5_4.dir/Chapter05/P5_4.c.o: C_COMPILER__P5_4_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter05/P5_4.c || cmake_object_order_depends_target_P5_4
+  DEP_FILE = CMakeFiles/P5_4.dir/Chapter05/P5_4.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/P5_4.dir
+  OBJECT_FILE_DIR = CMakeFiles/P5_4.dir/Chapter05
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P5_4
+
+
+#############################################
+# Link the executable P5_4
+
+build P5_4: C_EXECUTABLE_LINKER__P5_4_Debug CMakeFiles/P5_4.dir/Chapter05/P5_4.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P5_4.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P5_4
+  TARGET_PDB = P5_4.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P5_5
+
+
+#############################################
+# Order-only phony target for P5_5
+
+build cmake_object_order_depends_target_P5_5: phony || CMakeFiles/P5_5.dir
+
+build CMakeFiles/P5_5.dir/Chapter05/P5_5.c.o: C_COMPILER__P5_5_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter05/P5_5.c || cmake_object_order_depends_target_P5_5
+  DEP_FILE = CMakeFiles/P5_5.dir/Chapter05/P5_5.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/P5_5.dir
+  OBJECT_FILE_DIR = CMakeFiles/P5_5.dir/Chapter05
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P5_5
+
+
+#############################################
+# Link the executable P5_5
+
+build P5_5: C_EXECUTABLE_LINKER__P5_5_Debug CMakeFiles/P5_5.dir/Chapter05/P5_5.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P5_5.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P5_5
+  TARGET_PDB = P5_5.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target SqaureRoot
+
+
+#############################################
+# Order-only phony target for SqaureRoot
+
+build cmake_object_order_depends_target_SqaureRoot: phony || CMakeFiles/SqaureRoot.dir
+
+build CMakeFiles/SqaureRoot.dir/Chapter05/SquareRoot.c.o: C_COMPILER__SqaureRoot_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter05/SquareRoot.c || cmake_object_order_depends_target_SqaureRoot
+  DEP_FILE = CMakeFiles/SqaureRoot.dir/Chapter05/SquareRoot.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/SqaureRoot.dir
+  OBJECT_FILE_DIR = CMakeFiles/SqaureRoot.dir/Chapter05
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target SqaureRoot
+
+
+#############################################
+# Link the executable SqaureRoot
+
+build SqaureRoot: C_EXECUTABLE_LINKER__SqaureRoot_Debug CMakeFiles/SqaureRoot.dir/Chapter05/SquareRoot.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/SqaureRoot.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = SqaureRoot
+  TARGET_PDB = SqaureRoot.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P5_7
+
+
+#############################################
+# Order-only phony target for P5_7
+
+build cmake_object_order_depends_target_P5_7: phony || CMakeFiles/P5_7.dir
+
+build CMakeFiles/P5_7.dir/Chapter05/P5_7.c.o: C_COMPILER__P5_7_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter05/P5_7.c || cmake_object_order_depends_target_P5_7
+  DEP_FILE = CMakeFiles/P5_7.dir/Chapter05/P5_7.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/P5_7.dir
+  OBJECT_FILE_DIR = CMakeFiles/P5_7.dir/Chapter05
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P5_7
+
+
+#############################################
+# Link the executable P5_7
+
+build P5_7: C_EXECUTABLE_LINKER__P5_7_Debug CMakeFiles/P5_7.dir/Chapter05/P5_7.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P5_7.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P5_7
+  TARGET_PDB = P5_7.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target H5_1
+
+
+#############################################
+# Order-only phony target for H5_1
+
+build cmake_object_order_depends_target_H5_1: phony || CMakeFiles/H5_1.dir
+
+build CMakeFiles/H5_1.dir/Chapter05/H5_1.c.o: C_COMPILER__H5_1_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter05/H5_1.c || cmake_object_order_depends_target_H5_1
+  DEP_FILE = CMakeFiles/H5_1.dir/Chapter05/H5_1.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/H5_1.dir
+  OBJECT_FILE_DIR = CMakeFiles/H5_1.dir/Chapter05
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target H5_1
+
+
+#############################################
+# Link the executable H5_1
+
+build H5_1: C_EXECUTABLE_LINKER__H5_1_Debug CMakeFiles/H5_1.dir/Chapter05/H5_1.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/H5_1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = H5_1
+  TARGET_PDB = H5_1.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -1058,7 +1314,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug
 
-build all: phony AdvancedCProgramming Chap02Exercise03 H2_1 H2_2 Chap03Expression Chap03Exercise Chap03Exercise02 Chap03Exercise03 PrintAndScan H3_1 H3_2 H3_3 Chap04Swap P4_1 Chap04StackFrame Chap04Scope Chap04StorageClass P4_4 Chap04Math Chap04StdLib Chap04Program Chap04PseudoRandom Chap04RandomNumberRange Chap04GenerateRandomReal Chap04Calculator Chap04RecursiveFunc H4_1 H4_2 H4_3
+build all: phony AdvancedCProgramming Chap02Exercise03 H2_1 H2_2 Chap03Expression Chap03Exercise Chap03Exercise02 Chap03Exercise03 PrintAndScan H3_1 H3_2 H3_3 Chap04Swap P4_1 Chap04StackFrame Chap04Scope Chap04StorageClass P4_4 Chap04Math Chap04StdLib Chap04Program Chap04PseudoRandom Chap04RandomNumberRange Chap04GenerateRandomReal Chap04Calculator Chap04RecursiveFunc H4_1 H4_2 H4_3 P5_1 P5_2 P5_3 P5_4 P5_5 SqaureRoot P5_7 H5_1
 
 # =============================================================================
 # Built-in targets
