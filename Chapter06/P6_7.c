@@ -17,7 +17,7 @@ void multiplicationTable(void){
     {
         for (int j = 1; j <= i; j++)
         {
-            printf("%d * %d = %2d\t", i, j, j * i);
+            printf("%d*%d=%2d\t", i, j, j * i);
         }
         printf("\n");
     }

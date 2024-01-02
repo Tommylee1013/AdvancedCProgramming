@@ -1664,6 +1664,262 @@ build H6_3: C_EXECUTABLE_LINKER__H6_3_Debug CMakeFiles/H6_3.dir/Chapter06/H6_3.c
   TARGET_FILE = H6_3
   TARGET_PDB = H6_3.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap07Array
+
+
+#############################################
+# Order-only phony target for Chap07Array
+
+build cmake_object_order_depends_target_Chap07Array: phony || CMakeFiles/Chap07Array.dir
+
+build CMakeFiles/Chap07Array.dir/Chapter07/Array1.c.o: C_COMPILER__Chap07Array_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter07/Array1.c || cmake_object_order_depends_target_Chap07Array
+  DEP_FILE = CMakeFiles/Chap07Array.dir/Chapter07/Array1.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap07Array.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap07Array.dir/Chapter07
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap07Array
+
+
+#############################################
+# Link the executable Chap07Array
+
+build Chap07Array: C_EXECUTABLE_LINKER__Chap07Array_Debug CMakeFiles/Chap07Array.dir/Chapter07/Array1.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap07Array.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap07Array
+  TARGET_PDB = Chap07Array.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap07Array2
+
+
+#############################################
+# Order-only phony target for Chap07Array2
+
+build cmake_object_order_depends_target_Chap07Array2: phony || CMakeFiles/Chap07Array2.dir
+
+build CMakeFiles/Chap07Array2.dir/Chapter07/Array2.c.o: C_COMPILER__Chap07Array2_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter07/Array2.c || cmake_object_order_depends_target_Chap07Array2
+  DEP_FILE = CMakeFiles/Chap07Array2.dir/Chapter07/Array2.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap07Array2.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap07Array2.dir/Chapter07
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap07Array2
+
+
+#############################################
+# Link the executable Chap07Array2
+
+build Chap07Array2: C_EXECUTABLE_LINKER__Chap07Array2_Debug CMakeFiles/Chap07Array2.dir/Chapter07/Array2.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap07Array2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap07Array2
+  TARGET_PDB = Chap07Array2.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P7_1
+
+
+#############################################
+# Order-only phony target for P7_1
+
+build cmake_object_order_depends_target_P7_1: phony || CMakeFiles/P7_1.dir
+
+build CMakeFiles/P7_1.dir/Chapter07/P7_1.c.o: C_COMPILER__P7_1_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter07/P7_1.c || cmake_object_order_depends_target_P7_1
+  DEP_FILE = CMakeFiles/P7_1.dir/Chapter07/P7_1.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/P7_1.dir
+  OBJECT_FILE_DIR = CMakeFiles/P7_1.dir/Chapter07
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P7_1
+
+
+#############################################
+# Link the executable P7_1
+
+build P7_1: C_EXECUTABLE_LINKER__P7_1_Debug CMakeFiles/P7_1.dir/Chapter07/P7_1.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P7_1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P7_1
+  TARGET_PDB = P7_1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P7_2
+
+
+#############################################
+# Order-only phony target for P7_2
+
+build cmake_object_order_depends_target_P7_2: phony || CMakeFiles/P7_2.dir
+
+build CMakeFiles/P7_2.dir/Chapter07/P7_2.c.o: C_COMPILER__P7_2_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter07/P7_2.c || cmake_object_order_depends_target_P7_2
+  DEP_FILE = CMakeFiles/P7_2.dir/Chapter07/P7_2.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/P7_2.dir
+  OBJECT_FILE_DIR = CMakeFiles/P7_2.dir/Chapter07
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P7_2
+
+
+#############################################
+# Link the executable P7_2
+
+build P7_2: C_EXECUTABLE_LINKER__P7_2_Debug CMakeFiles/P7_2.dir/Chapter07/P7_2.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P7_2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P7_2
+  TARGET_PDB = P7_2.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P7_3
+
+
+#############################################
+# Order-only phony target for P7_3
+
+build cmake_object_order_depends_target_P7_3: phony || CMakeFiles/P7_3.dir
+
+build CMakeFiles/P7_3.dir/Chapter07/P7_3.c.o: C_COMPILER__P7_3_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter07/P7_3.c || cmake_object_order_depends_target_P7_3
+  DEP_FILE = CMakeFiles/P7_3.dir/Chapter07/P7_3.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/P7_3.dir
+  OBJECT_FILE_DIR = CMakeFiles/P7_3.dir/Chapter07
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P7_3
+
+
+#############################################
+# Link the executable P7_3
+
+build P7_3: C_EXECUTABLE_LINKER__P7_3_Debug CMakeFiles/P7_3.dir/Chapter07/P7_3.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P7_3.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P7_3
+  TARGET_PDB = P7_3.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P7_4
+
+
+#############################################
+# Order-only phony target for P7_4
+
+build cmake_object_order_depends_target_P7_4: phony || CMakeFiles/P7_4.dir
+
+build CMakeFiles/P7_4.dir/Chapter07/P7_4.c.o: C_COMPILER__P7_4_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter07/P7_4.c || cmake_object_order_depends_target_P7_4
+  DEP_FILE = CMakeFiles/P7_4.dir/Chapter07/P7_4.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/P7_4.dir
+  OBJECT_FILE_DIR = CMakeFiles/P7_4.dir/Chapter07
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P7_4
+
+
+#############################################
+# Link the executable P7_4
+
+build P7_4: C_EXECUTABLE_LINKER__P7_4_Debug CMakeFiles/P7_4.dir/Chapter07/P7_4.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P7_4.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P7_4
+  TARGET_PDB = P7_4.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap072DArray
+
+
+#############################################
+# Order-only phony target for Chap072DArray
+
+build cmake_object_order_depends_target_Chap072DArray: phony || CMakeFiles/Chap072DArray.dir
+
+build CMakeFiles/Chap072DArray.dir/Chapter07/2DArray.c.o: C_COMPILER__Chap072DArray_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter07/2DArray.c || cmake_object_order_depends_target_Chap072DArray
+  DEP_FILE = CMakeFiles/Chap072DArray.dir/Chapter07/2DArray.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap072DArray.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap072DArray.dir/Chapter07
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap072DArray
+
+
+#############################################
+# Link the executable Chap072DArray
+
+build Chap072DArray: C_EXECUTABLE_LINKER__Chap072DArray_Debug CMakeFiles/Chap072DArray.dir/Chapter07/2DArray.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap072DArray.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap072DArray
+  TARGET_PDB = Chap072DArray.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap07Casting
+
+
+#############################################
+# Order-only phony target for Chap07Casting
+
+build cmake_object_order_depends_target_Chap07Casting: phony || CMakeFiles/Chap07Casting.dir
+
+build CMakeFiles/Chap07Casting.dir/Chapter07/Casting.c.o: C_COMPILER__Chap07Casting_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter07/Casting.c || cmake_object_order_depends_target_Chap07Casting
+  DEP_FILE = CMakeFiles/Chap07Casting.dir/Chapter07/Casting.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap07Casting.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap07Casting.dir/Chapter07
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap07Casting
+
+
+#############################################
+# Link the executable Chap07Casting
+
+build Chap07Casting: C_EXECUTABLE_LINKER__Chap07Casting_Debug CMakeFiles/Chap07Casting.dir/Chapter07/Casting.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap07Casting.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap07Casting
+  TARGET_PDB = Chap07Casting.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -1698,7 +1954,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug
 
-build all: phony AdvancedCProgramming Chap02Exercise03 H2_1 H2_2 Chap03Expression Chap03Exercise Chap03Exercise02 Chap03Exercise03 PrintAndScan H3_1 H3_2 H3_3 Chap04Swap P4_1 Chap04StackFrame Chap04Scope Chap04StorageClass P4_4 Chap04Math Chap04StdLib Chap04Program Chap04PseudoRandom Chap04RandomNumberRange Chap04GenerateRandomReal Chap04Calculator Chap04RecursiveFunc H4_1 H4_2 H4_3 P5_1 P5_2 P5_3 P5_4 P5_5 SqaureRoot P5_7 H5_1 H5_2 H5_3 P6_1 P6_2 P6_3 P6_4 P6_5 P6_6 P6_7 H6_1 H6_2 H6_3
+build all: phony AdvancedCProgramming Chap02Exercise03 H2_1 H2_2 Chap03Expression Chap03Exercise Chap03Exercise02 Chap03Exercise03 PrintAndScan H3_1 H3_2 H3_3 Chap04Swap P4_1 Chap04StackFrame Chap04Scope Chap04StorageClass P4_4 Chap04Math Chap04StdLib Chap04Program Chap04PseudoRandom Chap04RandomNumberRange Chap04GenerateRandomReal Chap04Calculator Chap04RecursiveFunc H4_1 H4_2 H4_3 P5_1 P5_2 P5_3 P5_4 P5_5 SqaureRoot P5_7 H5_1 H5_2 H5_3 P6_1 P6_2 P6_3 P6_4 P6_5 P6_6 P6_7 H6_1 H6_2 H6_3 Chap07Array Chap07Array2 P7_1 P7_2 P7_3 P7_4 Chap072DArray Chap07Casting
 
 # =============================================================================
 # Built-in targets

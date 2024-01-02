@@ -1,5 +1,6 @@
 //
 // Created by Junghun Lee on 12/29/23.
+// bound를 어떻게 두는지에 따라서 중근으로 처리하는지를 보는 것을 목표로 한다
 //
 #include <stdio.h>
 #include <math.h>
