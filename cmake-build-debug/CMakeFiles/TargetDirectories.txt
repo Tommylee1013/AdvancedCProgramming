@@ -47,5 +47,13 @@
 /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/H6_1.dir
 /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/H6_2.dir
 /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/H6_3.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/Chap07Array.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/Chap07Array2.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/P7_1.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/P7_2.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/P7_3.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/P7_4.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/Chap072DArray.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/Chap07Casting.dir
 /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
