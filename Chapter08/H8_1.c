@@ -21,7 +21,7 @@ int main(void) {
 
     printf("%d + %d = %d\n", num1, num2, * _sum);
     printf("%d - %d = %d\n", num1, num2, * _sub);
-    if (div == 0 && mod == -1) {
+    if (div == 0) {
         printf("Zero Division Error! \n");
         printf("Zero Modulo Error! \n");
         return 0;
@@ -79,7 +79,7 @@ void func(
     * _sub = _num1 - _num2;
     if (_num2 == 0) {
         * _div = 0; // zero division error
-        * _mod = -1; // zero modulo error
+        * _mod = 0; // zero division error
     } else {
         * _div = _num1 / _num2;
         * _mod = _num1 % _num2;

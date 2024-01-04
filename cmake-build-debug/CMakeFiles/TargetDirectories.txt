@@ -61,5 +61,12 @@
 /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/H7_2.dir
 /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/H7_3.dir
 /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/P7_7.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/Chap08Pointer.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/P8_1.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/Chap08CallByReference.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/P8_3.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/P8_2.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/H8_1.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/H8_2.dir
 /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -58,6 +58,22 @@ int main(void) {
 }
 
 // function definition
+/*
+======================== add_element =======================
+ <params>
+ Int value : the elements which have to add or delete
+ Int * set : an array that don't receive duplicate elements
+ Int * cp : a length of array
+
+ <returns>
+ Void
+
+ Add an element to a set (add to the end of the array)
+ A set does not allow for duplicate elements, so only if
+ there are no elements in the set. Use the has_element
+ function to check for elements in the set
+============================================================
+*/
 void add_element(int value, int (* set), int * cp) {
     int flag;
     flag = has_element(value, set, cp);
@@ -67,8 +83,25 @@ void add_element(int value, int (* set), int * cp) {
     }
     set[* cp] = value;
     * cp += 1;
-}
+} // add_element
 
+/*
+====================== delete_element ======================
+ <params>
+ Int value : the elements which have to add or delete
+ Int * set : an array that don't receive duplicate elements
+ Int * cp : a length of array
+
+ <returns>
+ Void
+
+ Delete an element from the set. Delete an element only if
+ it exists in the set. At this time, if the element in
+ index 2 is deleted, the elements in indexes 3, 4, and 5
+ move one by one to the left. Check for elements in the set
+ using the has_element function.
+============================================================
+*/
 void delete_element(int value, int (* set), int * cp) {
     int flag;
 
@@ -82,17 +115,45 @@ void delete_element(int value, int (* set), int * cp) {
         set[i] = set[i + 1];
     }
     * cp -= 1;
-}
+} // delete_element
 
+/*
+======================= has_element ========================
+ <params>
+ Int value : the elements which have to add or delete
+ Int * set : an array that don't receive duplicate elements
+ Int * cp : a length of array
+
+ <returns>
+ Int
+
+ Check if there are elements in the set. Returns the index
+ if the element is in the set
+
+ Returns -1 if the element is not in the set
+============================================================
+*/
 int has_element(int value, int (* set), const int * cp) {
     for (int i = 0; i < * cp; i++) {
         if (set[i] == value) return i;
     }
     return -1;
-}
+} // has_element
 
+/*
+======================== print_set =========================
+ <params>
+ Int * set : an array that don't receive duplicate elements
+ Int * cp : a length of array
+
+ <returns>
+ Void
+
+ print elements of set
+============================================================
+*/
 void print_set(int (* set), const int (* cp)) {
     for (int i = 0; i < * cp; i++) {
         printf("%d ", set[i]);
     }
-}
+} // print_set
