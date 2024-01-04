@@ -2112,6 +2112,230 @@ build P7_7: C_EXECUTABLE_LINKER__P7_7_Debug CMakeFiles/P7_7.dir/Chapter07/P7_7.c
   TARGET_FILE = P7_7
   TARGET_PDB = P7_7.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap08Pointer
+
+
+#############################################
+# Order-only phony target for Chap08Pointer
+
+build cmake_object_order_depends_target_Chap08Pointer: phony || CMakeFiles/Chap08Pointer.dir
+
+build CMakeFiles/Chap08Pointer.dir/Chapter08/pointer.c.o: C_COMPILER__Chap08Pointer_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter08/pointer.c || cmake_object_order_depends_target_Chap08Pointer
+  DEP_FILE = CMakeFiles/Chap08Pointer.dir/Chapter08/pointer.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap08Pointer.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap08Pointer.dir/Chapter08
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap08Pointer
+
+
+#############################################
+# Link the executable Chap08Pointer
+
+build Chap08Pointer: C_EXECUTABLE_LINKER__Chap08Pointer_Debug CMakeFiles/Chap08Pointer.dir/Chapter08/pointer.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap08Pointer.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap08Pointer
+  TARGET_PDB = Chap08Pointer.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P8_1
+
+
+#############################################
+# Order-only phony target for P8_1
+
+build cmake_object_order_depends_target_P8_1: phony || CMakeFiles/P8_1.dir
+
+build CMakeFiles/P8_1.dir/Chapter08/P8_1.c.o: C_COMPILER__P8_1_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter08/P8_1.c || cmake_object_order_depends_target_P8_1
+  DEP_FILE = CMakeFiles/P8_1.dir/Chapter08/P8_1.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/P8_1.dir
+  OBJECT_FILE_DIR = CMakeFiles/P8_1.dir/Chapter08
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P8_1
+
+
+#############################################
+# Link the executable P8_1
+
+build P8_1: C_EXECUTABLE_LINKER__P8_1_Debug CMakeFiles/P8_1.dir/Chapter08/P8_1.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P8_1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P8_1
+  TARGET_PDB = P8_1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap08CallByReference
+
+
+#############################################
+# Order-only phony target for Chap08CallByReference
+
+build cmake_object_order_depends_target_Chap08CallByReference: phony || CMakeFiles/Chap08CallByReference.dir
+
+build CMakeFiles/Chap08CallByReference.dir/Chapter08/CallByReference.c.o: C_COMPILER__Chap08CallByReference_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter08/CallByReference.c || cmake_object_order_depends_target_Chap08CallByReference
+  DEP_FILE = CMakeFiles/Chap08CallByReference.dir/Chapter08/CallByReference.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap08CallByReference.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap08CallByReference.dir/Chapter08
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap08CallByReference
+
+
+#############################################
+# Link the executable Chap08CallByReference
+
+build Chap08CallByReference: C_EXECUTABLE_LINKER__Chap08CallByReference_Debug CMakeFiles/Chap08CallByReference.dir/Chapter08/CallByReference.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap08CallByReference.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap08CallByReference
+  TARGET_PDB = Chap08CallByReference.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P8_3
+
+
+#############################################
+# Order-only phony target for P8_3
+
+build cmake_object_order_depends_target_P8_3: phony || CMakeFiles/P8_3.dir
+
+build CMakeFiles/P8_3.dir/Chapter08/P8_3.c.o: C_COMPILER__P8_3_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter08/P8_3.c || cmake_object_order_depends_target_P8_3
+  DEP_FILE = CMakeFiles/P8_3.dir/Chapter08/P8_3.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/P8_3.dir
+  OBJECT_FILE_DIR = CMakeFiles/P8_3.dir/Chapter08
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P8_3
+
+
+#############################################
+# Link the executable P8_3
+
+build P8_3: C_EXECUTABLE_LINKER__P8_3_Debug CMakeFiles/P8_3.dir/Chapter08/P8_3.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P8_3.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P8_3
+  TARGET_PDB = P8_3.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P8_2
+
+
+#############################################
+# Order-only phony target for P8_2
+
+build cmake_object_order_depends_target_P8_2: phony || CMakeFiles/P8_2.dir
+
+build CMakeFiles/P8_2.dir/Chapter08/P8_2.c.o: C_COMPILER__P8_2_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter08/P8_2.c || cmake_object_order_depends_target_P8_2
+  DEP_FILE = CMakeFiles/P8_2.dir/Chapter08/P8_2.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/P8_2.dir
+  OBJECT_FILE_DIR = CMakeFiles/P8_2.dir/Chapter08
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P8_2
+
+
+#############################################
+# Link the executable P8_2
+
+build P8_2: C_EXECUTABLE_LINKER__P8_2_Debug CMakeFiles/P8_2.dir/Chapter08/P8_2.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P8_2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P8_2
+  TARGET_PDB = P8_2.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target H8_1
+
+
+#############################################
+# Order-only phony target for H8_1
+
+build cmake_object_order_depends_target_H8_1: phony || CMakeFiles/H8_1.dir
+
+build CMakeFiles/H8_1.dir/Chapter08/H8_1.c.o: C_COMPILER__H8_1_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter08/H8_1.c || cmake_object_order_depends_target_H8_1
+  DEP_FILE = CMakeFiles/H8_1.dir/Chapter08/H8_1.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/H8_1.dir
+  OBJECT_FILE_DIR = CMakeFiles/H8_1.dir/Chapter08
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target H8_1
+
+
+#############################################
+# Link the executable H8_1
+
+build H8_1: C_EXECUTABLE_LINKER__H8_1_Debug CMakeFiles/H8_1.dir/Chapter08/H8_1.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/H8_1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = H8_1
+  TARGET_PDB = H8_1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target H8_2
+
+
+#############################################
+# Order-only phony target for H8_2
+
+build cmake_object_order_depends_target_H8_2: phony || CMakeFiles/H8_2.dir
+
+build CMakeFiles/H8_2.dir/Chapter08/H8_2.c.o: C_COMPILER__H8_2_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter08/H8_2.c || cmake_object_order_depends_target_H8_2
+  DEP_FILE = CMakeFiles/H8_2.dir/Chapter08/H8_2.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/H8_2.dir
+  OBJECT_FILE_DIR = CMakeFiles/H8_2.dir/Chapter08
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target H8_2
+
+
+#############################################
+# Link the executable H8_2
+
+build H8_2: C_EXECUTABLE_LINKER__H8_2_Debug CMakeFiles/H8_2.dir/Chapter08/H8_2.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/H8_2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = H8_2
+  TARGET_PDB = H8_2.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -2146,7 +2370,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug
 
-build all: phony AdvancedCProgramming Chap02Exercise03 H2_1 H2_2 Chap03Expression Chap03Exercise Chap03Exercise02 Chap03Exercise03 PrintAndScan H3_1 H3_2 H3_3 Chap04Swap P4_1 Chap04StackFrame Chap04Scope Chap04StorageClass P4_4 Chap04Math Chap04StdLib Chap04Program Chap04PseudoRandom Chap04RandomNumberRange Chap04GenerateRandomReal Chap04Calculator Chap04RecursiveFunc H4_1 H4_2 H4_3 P5_1 P5_2 P5_3 P5_4 P5_5 SqaureRoot P5_7 H5_1 H5_2 H5_3 P6_1 P6_2 P6_3 P6_4 P6_5 P6_6 P6_7 H6_1 H6_2 H6_3 Chap07Array Chap07Array2 P7_1 P7_2 P7_3 P7_4 Chap072DArray Chap07Casting P7_5 P7_6 H7_1 H7_2 H7_3 P7_7
+build all: phony AdvancedCProgramming Chap02Exercise03 H2_1 H2_2 Chap03Expression Chap03Exercise Chap03Exercise02 Chap03Exercise03 PrintAndScan H3_1 H3_2 H3_3 Chap04Swap P4_1 Chap04StackFrame Chap04Scope Chap04StorageClass P4_4 Chap04Math Chap04StdLib Chap04Program Chap04PseudoRandom Chap04RandomNumberRange Chap04GenerateRandomReal Chap04Calculator Chap04RecursiveFunc H4_1 H4_2 H4_3 P5_1 P5_2 P5_3 P5_4 P5_5 SqaureRoot P5_7 H5_1 H5_2 H5_3 P6_1 P6_2 P6_3 P6_4 P6_5 P6_6 P6_7 H6_1 H6_2 H6_3 Chap07Array Chap07Array2 P7_1 P7_2 P7_3 P7_4 Chap072DArray Chap07Casting P7_5 P7_6 H7_1 H7_2 H7_3 P7_7 Chap08Pointer P8_1 Chap08CallByReference P8_3 P8_2 H8_1 H8_2
 
 # =============================================================================
 # Built-in targets
