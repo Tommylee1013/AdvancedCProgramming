@@ -10,7 +10,7 @@
 int main(void) {
     FILE * inFp;
     char _char = '\0';
-    char prechar;
+    char prechar = '\0';
     int state;
 
     int numVoca = 0;
@@ -22,7 +22,6 @@ int main(void) {
     }
 
     while (1) {
-        prechar = _char;
         state = fscanf(inFp, "%c", & _char);
         if (state == EOF) break;
         if (_char == '\n' || _char == '\t' || _char == ' '){
@@ -31,6 +30,7 @@ int main(void) {
                 numVoca --;
             }
         }
+        prechar = _char;
     }
 
     printf("Number of words : %d", numVoca);
