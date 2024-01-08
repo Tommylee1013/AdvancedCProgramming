@@ -1,0 +1,4 @@
+178.0 24 철수
+177.0 22 영희
+170.0 20 Bill
+Average height : 175.0 Average age: 22

@@ -77,5 +77,12 @@
 /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/Chap09malloc2.dir
 /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/P9_3.dir
 /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/P9_4.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/H9_1.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/H9_2.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/Chap10FileIO.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/Chap10FimeIO2.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/P10_1.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/P10_2.dir
+/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/P10_3.dir
 /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
