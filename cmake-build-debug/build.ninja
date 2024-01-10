@@ -3104,6 +3104,422 @@ build P12_5: C_EXECUTABLE_LINKER__P12_5_Debug CMakeFiles/P12_5.dir/Chapter12/P12
   TARGET_FILE = P12_5
   TARGET_PDB = P12_5.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap11fputs
+
+
+#############################################
+# Order-only phony target for Chap11fputs
+
+build cmake_object_order_depends_target_Chap11fputs: phony || CMakeFiles/Chap11fputs.dir
+
+build CMakeFiles/Chap11fputs.dir/Chapter11/fputs.c.o: C_COMPILER__Chap11fputs_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter11/fputs.c || cmake_object_order_depends_target_Chap11fputs
+  DEP_FILE = CMakeFiles/Chap11fputs.dir/Chapter11/fputs.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap11fputs.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap11fputs.dir/Chapter11
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap11fputs
+
+
+#############################################
+# Link the executable Chap11fputs
+
+build Chap11fputs: C_EXECUTABLE_LINKER__Chap11fputs_Debug CMakeFiles/Chap11fputs.dir/Chapter11/fputs.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap11fputs.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap11fputs
+  TARGET_PDB = Chap11fputs.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap11stringArray
+
+
+#############################################
+# Order-only phony target for Chap11stringArray
+
+build cmake_object_order_depends_target_Chap11stringArray: phony || CMakeFiles/Chap11stringArray.dir
+
+build CMakeFiles/Chap11stringArray.dir/Chapter11/stringArray.c.o: C_COMPILER__Chap11stringArray_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter11/stringArray.c || cmake_object_order_depends_target_Chap11stringArray
+  DEP_FILE = CMakeFiles/Chap11stringArray.dir/Chapter11/stringArray.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap11stringArray.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap11stringArray.dir/Chapter11
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap11stringArray
+
+
+#############################################
+# Link the executable Chap11stringArray
+
+build Chap11stringArray: C_EXECUTABLE_LINKER__Chap11stringArray_Debug CMakeFiles/Chap11stringArray.dir/Chapter11/stringArray.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap11stringArray.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap11stringArray
+  TARGET_PDB = Chap11stringArray.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap11sscanf
+
+
+#############################################
+# Order-only phony target for Chap11sscanf
+
+build cmake_object_order_depends_target_Chap11sscanf: phony || CMakeFiles/Chap11sscanf.dir
+
+build CMakeFiles/Chap11sscanf.dir/Chapter11/sscanf.c.o: C_COMPILER__Chap11sscanf_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter11/sscanf.c || cmake_object_order_depends_target_Chap11sscanf
+  DEP_FILE = CMakeFiles/Chap11sscanf.dir/Chapter11/sscanf.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap11sscanf.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap11sscanf.dir/Chapter11
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap11sscanf
+
+
+#############################################
+# Link the executable Chap11sscanf
+
+build Chap11sscanf: C_EXECUTABLE_LINKER__Chap11sscanf_Debug CMakeFiles/Chap11sscanf.dir/Chapter11/sscanf.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap11sscanf.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap11sscanf
+  TARGET_PDB = Chap11sscanf.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap11stringScan
+
+
+#############################################
+# Order-only phony target for Chap11stringScan
+
+build cmake_object_order_depends_target_Chap11stringScan: phony || CMakeFiles/Chap11stringScan.dir
+
+build CMakeFiles/Chap11stringScan.dir/Chapter11/P11_1.c.o: C_COMPILER__Chap11stringScan_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter11/P11_1.c || cmake_object_order_depends_target_Chap11stringScan
+  DEP_FILE = CMakeFiles/Chap11stringScan.dir/Chapter11/P11_1.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap11stringScan.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap11stringScan.dir/Chapter11
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap11stringScan
+
+
+#############################################
+# Link the executable Chap11stringScan
+
+build Chap11stringScan: C_EXECUTABLE_LINKER__Chap11stringScan_Debug CMakeFiles/Chap11stringScan.dir/Chapter11/P11_1.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap11stringScan.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap11stringScan
+  TARGET_PDB = Chap11stringScan.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap12typedef
+
+
+#############################################
+# Order-only phony target for Chap12typedef
+
+build cmake_object_order_depends_target_Chap12typedef: phony || CMakeFiles/Chap12typedef.dir
+
+build CMakeFiles/Chap12typedef.dir/Chapter12/typedef.c.o: C_COMPILER__Chap12typedef_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter12/typedef.c || cmake_object_order_depends_target_Chap12typedef
+  DEP_FILE = CMakeFiles/Chap12typedef.dir/Chapter12/typedef.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap12typedef.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap12typedef.dir/Chapter12
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap12typedef
+
+
+#############################################
+# Link the executable Chap12typedef
+
+build Chap12typedef: C_EXECUTABLE_LINKER__Chap12typedef_Debug CMakeFiles/Chap12typedef.dir/Chapter12/typedef.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap12typedef.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap12typedef
+  TARGET_PDB = Chap12typedef.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P12_1
+
+
+#############################################
+# Order-only phony target for P12_1
+
+build cmake_object_order_depends_target_P12_1: phony || CMakeFiles/P12_1.dir
+
+build CMakeFiles/P12_1.dir/Chapter12/P12_1.c.o: C_COMPILER__P12_1_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter12/P12_1.c || cmake_object_order_depends_target_P12_1
+  DEP_FILE = CMakeFiles/P12_1.dir/Chapter12/P12_1.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/P12_1.dir
+  OBJECT_FILE_DIR = CMakeFiles/P12_1.dir/Chapter12
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P12_1
+
+
+#############################################
+# Link the executable P12_1
+
+build P12_1: C_EXECUTABLE_LINKER__P12_1_Debug CMakeFiles/P12_1.dir/Chapter12/P12_1.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P12_1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P12_1
+  TARGET_PDB = P12_1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap12struct
+
+
+#############################################
+# Order-only phony target for Chap12struct
+
+build cmake_object_order_depends_target_Chap12struct: phony || CMakeFiles/Chap12struct.dir
+
+build CMakeFiles/Chap12struct.dir/Chapter12/structure.c.o: C_COMPILER__Chap12struct_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter12/structure.c || cmake_object_order_depends_target_Chap12struct
+  DEP_FILE = CMakeFiles/Chap12struct.dir/Chapter12/structure.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap12struct.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap12struct.dir/Chapter12
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap12struct
+
+
+#############################################
+# Link the executable Chap12struct
+
+build Chap12struct: C_EXECUTABLE_LINKER__Chap12struct_Debug CMakeFiles/Chap12struct.dir/Chapter12/structure.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap12struct.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap12struct
+  TARGET_PDB = Chap12struct.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap12struct2
+
+
+#############################################
+# Order-only phony target for Chap12struct2
+
+build cmake_object_order_depends_target_Chap12struct2: phony || CMakeFiles/Chap12struct2.dir
+
+build CMakeFiles/Chap12struct2.dir/Chapter12/structure2.c.o: C_COMPILER__Chap12struct2_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter12/structure2.c || cmake_object_order_depends_target_Chap12struct2
+  DEP_FILE = CMakeFiles/Chap12struct2.dir/Chapter12/structure2.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap12struct2.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap12struct2.dir/Chapter12
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap12struct2
+
+
+#############################################
+# Link the executable Chap12struct2
+
+build Chap12struct2: C_EXECUTABLE_LINKER__Chap12struct2_Debug CMakeFiles/Chap12struct2.dir/Chapter12/structure2.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap12struct2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap12struct2
+  TARGET_PDB = Chap12struct2.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap12struct3
+
+
+#############################################
+# Order-only phony target for Chap12struct3
+
+build cmake_object_order_depends_target_Chap12struct3: phony || CMakeFiles/Chap12struct3.dir
+
+build CMakeFiles/Chap12struct3.dir/Chapter12/structure3.c.o: C_COMPILER__Chap12struct3_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter12/structure3.c || cmake_object_order_depends_target_Chap12struct3
+  DEP_FILE = CMakeFiles/Chap12struct3.dir/Chapter12/structure3.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap12struct3.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap12struct3.dir/Chapter12
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap12struct3
+
+
+#############################################
+# Link the executable Chap12struct3
+
+build Chap12struct3: C_EXECUTABLE_LINKER__Chap12struct3_Debug CMakeFiles/Chap12struct3.dir/Chapter12/structure3.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap12struct3.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap12struct3
+  TARGET_PDB = Chap12struct3.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap12struct4
+
+
+#############################################
+# Order-only phony target for Chap12struct4
+
+build cmake_object_order_depends_target_Chap12struct4: phony || CMakeFiles/Chap12struct4.dir
+
+build CMakeFiles/Chap12struct4.dir/Chapter12/structure4.c.o: C_COMPILER__Chap12struct4_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter12/structure4.c || cmake_object_order_depends_target_Chap12struct4
+  DEP_FILE = CMakeFiles/Chap12struct4.dir/Chapter12/structure4.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap12struct4.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap12struct4.dir/Chapter12
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap12struct4
+
+
+#############################################
+# Link the executable Chap12struct4
+
+build Chap12struct4: C_EXECUTABLE_LINKER__Chap12struct4_Debug CMakeFiles/Chap12struct4.dir/Chapter12/structure4.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap12struct4.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap12struct4
+  TARGET_PDB = Chap12struct4.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap12struct5
+
+
+#############################################
+# Order-only phony target for Chap12struct5
+
+build cmake_object_order_depends_target_Chap12struct5: phony || CMakeFiles/Chap12struct5.dir
+
+build CMakeFiles/Chap12struct5.dir/Chapter12/structure_func.c.o: C_COMPILER__Chap12struct5_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter12/structure_func.c || cmake_object_order_depends_target_Chap12struct5
+  DEP_FILE = CMakeFiles/Chap12struct5.dir/Chapter12/structure_func.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/Chap12struct5.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap12struct5.dir/Chapter12
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap12struct5
+
+
+#############################################
+# Link the executable Chap12struct5
+
+build Chap12struct5: C_EXECUTABLE_LINKER__Chap12struct5_Debug CMakeFiles/Chap12struct5.dir/Chapter12/structure_func.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap12struct5.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap12struct5
+  TARGET_PDB = Chap12struct5.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P12_3
+
+
+#############################################
+# Order-only phony target for P12_3
+
+build cmake_object_order_depends_target_P12_3: phony || CMakeFiles/P12_3.dir
+
+build CMakeFiles/P12_3.dir/Chapter12/P12_3.c.o: C_COMPILER__P12_3_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter12/P12_3.c || cmake_object_order_depends_target_P12_3
+  DEP_FILE = CMakeFiles/P12_3.dir/Chapter12/P12_3.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/P12_3.dir
+  OBJECT_FILE_DIR = CMakeFiles/P12_3.dir/Chapter12
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P12_3
+
+
+#############################################
+# Link the executable P12_3
+
+build P12_3: C_EXECUTABLE_LINKER__P12_3_Debug CMakeFiles/P12_3.dir/Chapter12/P12_3.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P12_3.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P12_3
+  TARGET_PDB = P12_3.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P12_4
+
+
+#############################################
+# Order-only phony target for P12_4
+
+build cmake_object_order_depends_target_P12_4: phony || CMakeFiles/P12_4.dir
+
+build CMakeFiles/P12_4.dir/Chapter12/P12_4.c.o: C_COMPILER__P12_4_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter12/P12_4.c || cmake_object_order_depends_target_P12_4
+  DEP_FILE = CMakeFiles/P12_4.dir/Chapter12/P12_4.c.o.d
+  FLAGS = -g -std=gnu11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/Chapter01
+  OBJECT_DIR = CMakeFiles/P12_4.dir
+  OBJECT_FILE_DIR = CMakeFiles/P12_4.dir/Chapter12
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P12_4
+
+
+#############################################
+# Link the executable P12_4
+
+build P12_4: C_EXECUTABLE_LINKER__P12_4_Debug CMakeFiles/P12_4.dir/Chapter12/P12_4.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P12_4.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P12_4
+  TARGET_PDB = P12_4.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -3138,7 +3554,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/junghunlee/Desktop/Programming/CLion/AdvancedCProgramming/cmake-build-debug
 
-build all: phony AdvancedCProgramming Chap02Exercise03 H2_1 H2_2 Chap03Expression Chap03Exercise Chap03Exercise02 Chap03Exercise03 PrintAndScan H3_1 H3_2 H3_3 Chap04Swap P4_1 Chap04StackFrame Chap04Scope Chap04StorageClass P4_4 Chap04Math Chap04StdLib Chap04Program Chap04PseudoRandom Chap04RandomNumberRange Chap04GenerateRandomReal Chap04Calculator Chap04RecursiveFunc H4_1 H4_2 H4_3 P5_1 P5_2 P5_3 P5_4 P5_5 SqaureRoot P5_7 H5_1 H5_2 H5_3 P6_1 P6_2 P6_3 P6_4 P6_5 P6_6 P6_7 H6_1 H6_2 H6_3 Chap07Array Chap07Array2 P7_1 P7_2 P7_3 P7_4 Chap072DArray Chap07Casting P7_5 P7_6 H7_1 H7_2 H7_3 P7_7 Chap08Pointer P8_1 Chap08CallByReference P8_3 P8_2 H8_1 H8_2 Chapter09Example01 P9_1 P9_2 Chap09PointerOperation Chap09multiDpointer Chap09malloc Chap09malloc2 P9_3 P9_4 H9_1 H9_2 Chap10FileIO Chap10FimeIO2 P10_1 P10_2 P10_3 H10_1 H10_2 P11_2 P11_3 H11_1 H11_2 P12_2 P12_5
+build all: phony AdvancedCProgramming Chap02Exercise03 H2_1 H2_2 Chap03Expression Chap03Exercise Chap03Exercise02 Chap03Exercise03 PrintAndScan H3_1 H3_2 H3_3 Chap04Swap P4_1 Chap04StackFrame Chap04Scope Chap04StorageClass P4_4 Chap04Math Chap04StdLib Chap04Program Chap04PseudoRandom Chap04RandomNumberRange Chap04GenerateRandomReal Chap04Calculator Chap04RecursiveFunc H4_1 H4_2 H4_3 P5_1 P5_2 P5_3 P5_4 P5_5 SqaureRoot P5_7 H5_1 H5_2 H5_3 P6_1 P6_2 P6_3 P6_4 P6_5 P6_6 P6_7 H6_1 H6_2 H6_3 Chap07Array Chap07Array2 P7_1 P7_2 P7_3 P7_4 Chap072DArray Chap07Casting P7_5 P7_6 H7_1 H7_2 H7_3 P7_7 Chap08Pointer P8_1 Chap08CallByReference P8_3 P8_2 H8_1 H8_2 Chapter09Example01 P9_1 P9_2 Chap09PointerOperation Chap09multiDpointer Chap09malloc Chap09malloc2 P9_3 P9_4 H9_1 H9_2 Chap10FileIO Chap10FimeIO2 P10_1 P10_2 P10_3 H10_1 H10_2 P11_2 P11_3 H11_1 H11_2 P12_2 P12_5 Chap11fputs Chap11stringArray Chap11sscanf Chap11stringScan Chap12typedef P12_1 Chap12struct Chap12struct2 Chap12struct3 Chap12struct4 Chap12struct5 P12_3 P12_4
 
 # =============================================================================
 # Built-in targets
